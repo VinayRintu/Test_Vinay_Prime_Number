@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Vinay_Prime_Number", "Test_Vinay_Prime_Number\Test_Vinay_Prime_Number.csproj", "{8724ECA1-9962-45E2-BA2A-B3AACD02BE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8724ECA1-9962-45E2-BA2A-B3AACD02BE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8724ECA1-9962-45E2-BA2A-B3AACD02BE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8724ECA1-9962-45E2-BA2A-B3AACD02BE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8724ECA1-9962-45E2-BA2A-B3AACD02BE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E3EA59-E5E4-4695-A878-0E53B62E7FA1}
+	EndGlobalSection
+EndGlobal
